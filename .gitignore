@@ -400,4 +400,4 @@ FodyWeavers.xsd
 # Entorno
 entorno_rms/
 
-*/.DS_Store
+*.DS_Store
