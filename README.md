@@ -20,3 +20,8 @@ Preséntelos como histogramas.
 
 ## Tarea de ampliación del tema 2.
 **Enunciado**: Programar una simulación de encolado equitativo.
+
+**Códigos**:
+- [Cliente](./simulacion/cliente.py)
+- [Cola](./simulacion/cola.py)
+- [Simulacion](./simulacion/simulacion.py)
